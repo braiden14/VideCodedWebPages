@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://braiden14.github.io/VideCodedWebPages/sitemap.xml
